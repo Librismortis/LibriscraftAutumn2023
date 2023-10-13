@@ -1,0 +1,12 @@
+name = "LibriscraftAutumn2023"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cf7907a115852b8f9a1f2fdb9b98d08487eeb5833c7fbf3266bdc97fc8dd579c"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"

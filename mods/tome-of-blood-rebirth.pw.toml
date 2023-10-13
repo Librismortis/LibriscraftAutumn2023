@@ -1,0 +1,13 @@
+name = "Tome of Blood: Rebirth"
+filename = "tomeofblood-1.20.1-0.2.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c1c23071a0ae8a796db9d7ea68ebe13b1bfdab2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4789454
+project-id = 911546

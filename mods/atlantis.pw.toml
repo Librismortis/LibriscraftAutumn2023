@@ -1,0 +1,13 @@
+name = "Atlantis"
+filename = "atlantis-2023.9.12-1.20.1-1.4.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e11bb7a40b21609fbc6fd74ddcacb0fc2ef243e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4749886
+project-id = 355418

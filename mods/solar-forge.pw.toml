@@ -1,0 +1,13 @@
+name = "Solar Craft"
+filename = "solarcraft-3.2.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56463ec134f7f0e66c02f0dad2d9851a81764d1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4662006
+project-id = 479100
