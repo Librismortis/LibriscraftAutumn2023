@@ -1845,7 +1845,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "5475a8b99c9b0ab95ba463ba714670930f8535b84a836952e46e99c8b5b3867c"
+hash = "0b1665350805f4b7d95d99d8aa341d93f8195eb8adaa5a435c290e28149f62f6"
 metafile = true
 
 [[files]]
@@ -1925,7 +1925,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "65b5227828f61f2f7617869c1d6e855a12f27d555e9163068d4d1cc5aaab56dc"
+hash = "007dd7de2a5d05f790ee950174d6ca6fce8bfa0dec50a6752c1259c3cf22e112"
 metafile = true
 
 [[files]]
@@ -2060,7 +2060,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "b9bec597080d4fa6b8671c37798fd7263510a1302f3b826c7c0e53c8469f5b38"
+hash = "8b6e2601366dc6287e427f4fc2f9734ecceb2c617e07228b0f63028363530940"
 metafile = true
 
 [[files]]
@@ -2170,7 +2170,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "6bff28fd3a3fa5e2d3a4ab16ca9db00b86fa5b787117b22c2f7a1a921c09eb34"
+hash = "a3085decb5b25159bed5030fd302769633970ab3d6951afd1cc375eb36c7cff9"
 metafile = true
 
 [[files]]
@@ -2335,12 +2335,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
-hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+hash = "bd5450bc684f96192d438b7f2ceecab5d6dc92916e220ebece96cf6cb0dd932b"
 metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "4bd7bd02c4bcdb762837f2180782d1c147a0d1c1b45c9b8f69ee654dd632af02"
+hash = "abaf0228924baf948deb277d0c050aced93159d72e998a8f01ec0f943def3bef"
 metafile = true
 
 [[files]]
@@ -2500,7 +2500,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "735a4682ce5f732ea64ec5e8d62c9befa234fb55322ce6a6a4dcefc5dbf5a129"
+hash = "a833cd3187adb57b3ea70262b82b17d65efe21655f9eeaefede57df74ddb0915"
 metafile = true
 
 [[files]]
@@ -2575,7 +2575,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "cfb8bd6c214d11044e237af659a00491d3e8ccfffb30628238165e4565acbd4a"
+hash = "690af0d936a99482c342c15f17543deb3b0929e7c7a653c16594566b77c60520"
 metafile = true
 
 [[files]]
@@ -2645,7 +2645,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "a7bbec221b1da6b34cbd7fb3cb5ad0ee0bb8c5a59ed4bf883bc136c75afbcd9c"
+hash = "0aeeab49965f9bcfb9118d10e90131163a119f2465050b03563335bab1e6b685"
 metafile = true
 
 [[files]]
