@@ -1,6 +1,6 @@
 name = "Tissou's Zombie Pack"
 filename = "TZP_1.20.1_2.7.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
