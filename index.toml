@@ -2832,13 +2832,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
 metafile = true
-
-[[files]]
-file = "resourcepacks/created-storage-network.pw.toml"
-hash = "c2ee23b24428948a04d0b367a1facd3553356061543c31cf6f9c62eb228cac34"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
-hash = "5d6a9c4d995bc6a2cac09b738242f5f85df0fb70e39a90b1fb1319f5b6d7c2de"
-metafile = true
