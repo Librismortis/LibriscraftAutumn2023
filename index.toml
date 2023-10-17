@@ -2064,11 +2064,6 @@ hash = "8b6e2601366dc6287e427f4fc2f9734ecceb2c617e07228b0f63028363530940"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "af8bb43157e316f30cf6207a98a89366c5d8fc86d5b0d289c3df790ce27d811e"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "a975c682da007847dfe6711b5f12e3e61a4f78c98a432ed158bf77ecfc1ab2e9"
 metafile = true
@@ -2389,6 +2384,11 @@ hash = "386c6b97130630b3cfb3ad405a2303b936a4799da830cc7dcc4f982b1c3ae21e"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6d4e17c18c4a97d901907a579ebfa4a446bd04f01f6725584750a72dadf31f9d"
+metafile = true
+
+[[files]]
 file = "mods/l_ender-s-cataclysm.pw.toml"
 hash = "5501b7c8c9ed36f25e60c92a43143ee0d8894a0f35f0ea59302ac7188a15aecb"
 metafile = true
@@ -2566,6 +2566,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "c79a31ab51998f7ecb2ef8f0c3397fe9eb4d079e1649d1850af3d8d7d531f673"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "cf6c7974d46bba617f63da63cb589fa42f26c8b04d9230c43fd7f72b3e30c2d8"
 metafile = true
 
 [[files]]
